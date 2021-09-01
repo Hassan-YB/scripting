@@ -1,0 +1,18 @@
+30% of dataset results
+key:6 , Values:140
+key:9 , Values:34
+key:2 , Values:300
+key:7 , Values:81
+key:3 , Values:379
+key:8 , Values:44
+key:5 , Values:251
+key:4 , Values:289
+key:11 , Values:12
+key:10 , Values:20
+key:1 , Values:99
+key:15 , Values:3
+key:13 , Values:5
+key:14 , Values:6
+key:12 , Values:9
+
+70% Remaining unused dataset

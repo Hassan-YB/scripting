@@ -1,0 +1,17 @@
+Results of seg 1 of 30%
+key:6 , Values:71
+key:9 , Values:18
+key:2 , Values:151
+key:7 , Values:42
+key:3 , Values:191
+key:8 , Values:23
+key:5 , Values:127
+key:4 , Values:146
+key:11 , Values:7
+key:10 , Values:11
+key:1 , Values:51
+key:15 , Values:3
+key:13 , Values:4
+key:14 , Values:4
+key:12 , Values:6
+Total = 855

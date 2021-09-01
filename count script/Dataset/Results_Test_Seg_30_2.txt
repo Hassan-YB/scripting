@@ -1,0 +1,17 @@
+Results of seg 2 of 30%
+key:6 , Values:70
+key:9 , Values:17
+key:2 , Values:150
+key:7 , Values:40
+key:3 , Values:189
+key:8 , Values:22
+key:5 , Values:125
+key:4 , Values:144
+key:11 , Values:6
+key:10 , Values:10
+key:1 , Values:49
+key:15 , Values:1
+key:13 , Values:2
+key:14 , Values:3
+key:12 , Values:4
+Total = 832

@@ -1,0 +1,50 @@
+30% of dataset results
+Total:1689
+key:6 , Values:140
+key:9 , Values:34
+key:2 , Values:300
+key:7 , Values:81
+key:3 , Values:379
+key:8 , Values:44
+key:5 , Values:251
+key:4 , Values:289
+key:11 , Values:12
+key:10 , Values:20
+key:1 , Values:99
+key:15 , Values:3
+key:13 , Values:5
+key:14 , Values:6
+key:12 , Values:9
+
+
+70% Remaining unused dataset
+Total:5630
+key6: Values:328
+key9: Values:80
+key2: Values:701
+key7: Values:188
+key3: Values:885
+key8: Values:102
+key5: Values:587
+key4: Values:675
+key11: Values:28
+key10: Values:48
+key1: Values:231
+key15: Values:9
+key16: Values:7
+key13: Values:12
+key14: Values:15
+key12: Values:23
+key23: Values:1
+key17: Values:7
+key27: Values:1
+key28: Values:3
+key19: Values:4
+key26: Values:1
+key30: Values:1
+key20: Values:1
+key18: Values:3
+key21: Values:2
+key24: Values:2
+key22: Values:1
+key39: Values:1
