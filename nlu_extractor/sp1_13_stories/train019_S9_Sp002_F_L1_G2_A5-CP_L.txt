@@ -1,0 +1,14 @@
+* intent_find_by_cuisine_price
+میں [دیسی](cuisine) کھانا کھانا چاہ رہی ہوں [تھری تھاؤزنڈ](price) میں ۔
+	- slot{"cuisine":"دیسی"}
+	- slot{"price":"تھری تھاؤزنڈ"}
+	- action_find_by_cuisine_and_price
+
+* intent_find_by_location
+میں [ڈیفنس](location) سے سے کھانا چاہ رہی ہوں.
+	- slot{"cuisine":"دیسی"}
+	- slot{"price":"تھری تھاؤزنڈ"}
+	- slot{"location":"ڈیفنس"}
+	- action_find_by_location_cuisine_price
+	- action_restart
+

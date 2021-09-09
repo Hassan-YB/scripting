@@ -1,0 +1,4 @@
+- [جوہر ٹاؤن]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ڈی ایچ اے]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [جوہر ٹاؤن]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اقبال ٹاؤن]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں

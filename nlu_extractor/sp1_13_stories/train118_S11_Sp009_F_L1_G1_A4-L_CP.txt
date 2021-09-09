@@ -1,0 +1,13 @@
+* intent_find_by_location
+میں [شالامار](location) کھڑی ہوں اور مجھے کچھ کھانا ہے 
+	- slot{"location":"شالامار"}
+	- action_find_by_location
+
+* intent_find_by_cuisine_price
+میں [مناسب](price) منگوانا چاہوں گی اورمیں [مناسب](price) منگوانا چاہوں گی اور مجھے آپ [بریانی](cuisine) سینڈ کر دیں
+	- slot{"location":"شالامار"}
+	- slot{"price":"مناسب"}
+	- slot{"cuisine":"بریانی"}
+	- action_find_by_location_cuisine_price
+	- action_restart
+

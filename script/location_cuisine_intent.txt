@@ -1,0 +1,5 @@
+- میں [گلبرگ]{"entity" : "location"} سے [کانٹینینٹل]{"entity" : "cuisine"} کھانا لینا چاہتا ہوں
+- مجھے [فیصل ٹاؤن]{"entity" : "location"} میں [فاسٹ فوڈ]{"entity" : "cuisine"} ریسٹورینٹ کے بارے میں جاننا ہے
+- مجھے [دیسی]{"entity" : "cuisine"} ریسٹورنٹ کی [اقبال ٹاؤن]{"entity" : "location"} میں تلاش ہے
+- [دیسی]{"entity" : "cuisine"} کھانے کا دل کر رہا ہے
+- [مسلم ٹاؤن]{"entity" : "location"} میں مجھے [دیسی]{"entity" : "cuisine"} کھانے کی جگہ بتاؤ

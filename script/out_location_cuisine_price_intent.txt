@@ -1,0 +1,256 @@
+- [ابوبکر بلاک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [احمد بلاک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ایبک بلاک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ایئرلائن سوسائٹی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ایئر پورٹ روڈ ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ایچیسن سوسائٹی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اکرام پارک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [الفیصل ٹاؤن ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [الفلاح ٹاؤن]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [علی بلاک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [علی پارک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [علی رضا آباد ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [علامہ اقبال میڈیکل کالج ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [علامہ اقبال ٹاؤن ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ایلفا کو آپریٹو ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [امین پارک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [انارکلی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [انگوری باغ سکیم]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [آرائیاں]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [آرکیٹیکٹس انجینیئرز سوسائٹی]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [آرمی ہاؤسنگ سوسائٹی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [آصف بلاک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری کالونی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 1 ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 10 ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 2 ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 3 ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 4]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 5]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 6 ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 7 ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 8]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عسکری ولا 9]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اتاترک  بلاک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اٹاری سروبہ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اٹوکے  اعوان]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اوقاف  کالونی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اورنگزیب بلاک]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اعوان ڈھائیوالہ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اعوان مارکیٹ ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اعوان ٹاؤن ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ایاز بیگ کینال ویو ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [اعظم مارکیٹ ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [عزیز کالونی شاہدرہ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بابا فرید کالونی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بابر بلاک ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بابو صابو ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بادامی باغ ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بدر بلاک]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بدر کالونی]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ہڈیارا ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [باغبان پورہ ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [باگڑیاں]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [باگڑیاں دھرم چند]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بہاول پور ہاؤس ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بحریہ ٹاؤن ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بلوکی ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بند روڈ ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بندہ گوجراں]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بارگنزا کوارٹرز]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [برکی]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [برکی روڈ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [بستی سیدن شاہ]{"entity" : "location"} میں کوئی [سستی]{"entity" : "price"} [دیسی]{"entity" : "cuisine"} کھانے کی جگہ ڈھونڈو
+- [ابوبکر بلاک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [احمد بلاک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ایبک بلاک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ایئرلائن سوسائٹی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ایئر پورٹ روڈ ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ایچیسن سوسائٹی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اکرام پارک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [الفیصل ٹاؤن ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [الفلاح ٹاؤن]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [علی بلاک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [علی پارک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [علی رضا آباد ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [علامہ اقبال میڈیکل کالج ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [علامہ اقبال ٹاؤن ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ایلفا کو آپریٹو ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [امین پارک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [انارکلی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [انگوری باغ سکیم]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [آرائیاں]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [آرکیٹیکٹس انجینیئرز سوسائٹی]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [آرمی ہاؤسنگ سوسائٹی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [آصف بلاک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری کالونی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 1 ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 10 ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 2 ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 3 ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 4]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 5]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 6 ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 7 ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 8]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عسکری ولا 9]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اتاترک  بلاک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اٹاری سروبہ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اٹوکے  اعوان]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اوقاف  کالونی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اورنگزیب بلاک]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اعوان ڈھائیوالہ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اعوان مارکیٹ ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اعوان ٹاؤن ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ایاز بیگ کینال ویو ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [اعظم مارکیٹ ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [عزیز کالونی شاہدرہ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بابا فرید کالونی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بابر بلاک ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بابو صابو ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بادامی باغ ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بدر بلاک]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بدر کالونی]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ہڈیارا ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [باغبان پورہ ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [باگڑیاں]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [باگڑیاں دھرم چند]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بہاول پور ہاؤس ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بحریہ ٹاؤن ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بلوکی ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بند روڈ ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بندہ گوجراں]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بارگنزا کوارٹرز]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [برکی]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [برکی روڈ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [بستی سیدن شاہ]{"entity" : "location"} میں [مہنگا]{"entity" : "price"} [چائنیز]{"entity" : "cuisine"} کھانا کہاں سے ملتا ہے 
+- [ابوبکر بلاک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [احمد بلاک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ایبک بلاک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ایئرلائن سوسائٹی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ایئر پورٹ روڈ ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ایچیسن سوسائٹی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اکرام پارک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [الفیصل ٹاؤن ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [الفلاح ٹاؤن]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [علی بلاک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [علی پارک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [علی رضا آباد ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [علامہ اقبال میڈیکل کالج ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [علامہ اقبال ٹاؤن ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ایلفا کو آپریٹو ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [امین پارک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [انارکلی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [انگوری باغ سکیم]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [آرائیاں]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [آرکیٹیکٹس انجینیئرز سوسائٹی]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [آرمی ہاؤسنگ سوسائٹی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [آصف بلاک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری کالونی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 1 ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 10 ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 2 ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 3 ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 4]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 5]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 6 ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 7 ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 8]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عسکری ولا 9]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اتاترک  بلاک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اٹاری سروبہ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اٹوکے  اعوان]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اوقاف  کالونی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اورنگزیب بلاک]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اعوان ڈھائیوالہ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اعوان مارکیٹ ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اعوان ٹاؤن ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ایاز بیگ کینال ویو ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [اعظم مارکیٹ ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [عزیز کالونی شاہدرہ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بابا فرید کالونی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بابر بلاک ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بابو صابو ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بادامی باغ ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بدر بلاک]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بدر کالونی]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ہڈیارا ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [باغبان پورہ ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [باگڑیاں]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [باگڑیاں دھرم چند]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بہاول پور ہاؤس ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بحریہ ٹاؤن ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بلوکی ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بند روڈ ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بندہ گوجراں]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بارگنزا کوارٹرز]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [برکی]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [برکی روڈ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [بستی سیدن شاہ]{"entity" : "location"} سے [دیسی]{"entity" : "cuisine"} کھانا [پانچ سو]{"entity" : "price"} کی رینج میں چاہیے
+- [ابوبکر بلاک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [احمد بلاک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [ایبک بلاک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [ایئرلائن سوسائٹی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [ایئر پورٹ روڈ ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [ایچیسن سوسائٹی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اکرام پارک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [الفیصل ٹاؤن ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [الفلاح ٹاؤن]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [علی بلاک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [علی پارک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [علی رضا آباد ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [علامہ اقبال میڈیکل کالج ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [علامہ اقبال ٹاؤن ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [ایلفا کو آپریٹو ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [امین پارک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [انارکلی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [انگوری باغ سکیم]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [آرائیاں]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [آرکیٹیکٹس انجینیئرز سوسائٹی]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [آرمی ہاؤسنگ سوسائٹی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [آصف بلاک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری کالونی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 1 ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 10 ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 2 ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 3 ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 4]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 5]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 6 ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 7 ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 8]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عسکری ولا 9]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اتاترک  بلاک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اٹاری سروبہ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اٹوکے  اعوان]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اوقاف  کالونی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اورنگزیب بلاک]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اعوان ڈھائیوالہ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اعوان مارکیٹ ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اعوان ٹاؤن ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [ایاز بیگ کینال ویو ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [اعظم مارکیٹ ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [عزیز کالونی شاہدرہ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بابا فرید کالونی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بابر بلاک ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بابو صابو ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بادامی باغ ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بدر بلاک]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بدر کالونی]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [ہڈیارا ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [باغبان پورہ ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [باگڑیاں]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [باگڑیاں دھرم چند]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بہاول پور ہاؤس ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بحریہ ٹاؤن ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بلوکی ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بند روڈ ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بندہ گوجراں]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بارگنزا کوارٹرز]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [برکی]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [برکی روڈ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
+- [بستی سیدن شاہ]{"entity" : "location"} سے [چائنیز]{"entity" : "cuisine"} کھانا کھانا ہے [سستے]{"entity" : "price"} میں
