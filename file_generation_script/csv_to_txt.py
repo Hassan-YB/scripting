@@ -8,7 +8,7 @@ with open(f"{filename}", encoding="utf8") as csvfile:
     count = 1
     for row in csv_reader:
         if any(map(str.isdigit, row[0])):
-            f = open(f"output/{row[0]}.txt","w", encoding="utf-8")
+            f = open(f"output3/{row[0]}.txt","w", encoding="utf-8")
             f.write(f'{row[1]}\t{row[2]}')
             f.write("\n")
         elif count == 1:

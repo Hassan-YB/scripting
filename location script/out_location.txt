@@ -1,3 +1,67 @@
+- [ابوبکر بلاک ]{"entity" : "location"} سے [ابوبکر بلاک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [احمد بلاک ]{"entity" : "location"} سے [احمد بلاک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [ایبک بلاک ]{"entity" : "location"} سے [ایبک بلاک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [ایئرلائن سوسائٹی ]{"entity" : "location"} سے [ایئرلائن سوسائٹی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [ایئر پورٹ روڈ ]{"entity" : "location"} سے [ایئر پورٹ روڈ ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [ایچیسن سوسائٹی ]{"entity" : "location"} سے [ایچیسن سوسائٹی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اکرام پارک ]{"entity" : "location"} سے [اکرام پارک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [الفیصل ٹاؤن ]{"entity" : "location"} سے [الفیصل ٹاؤن ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [الفلاح ٹاؤن]{"entity" : "location"} سے [الفلاح ٹاؤن]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [علی بلاک ]{"entity" : "location"} سے [علی بلاک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [علی پارک ]{"entity" : "location"} سے [علی پارک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [علی رضا آباد ]{"entity" : "location"} سے [علی رضا آباد ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [علامہ اقبال میڈیکل کالج ]{"entity" : "location"} سے [علامہ اقبال میڈیکل کالج ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [علامہ اقبال ٹاؤن ]{"entity" : "location"} سے [علامہ اقبال ٹاؤن ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [ایلفا کو آپریٹو ]{"entity" : "location"} سے [ایلفا کو آپریٹو ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [امین پارک ]{"entity" : "location"} سے [امین پارک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [انارکلی ]{"entity" : "location"} سے [انارکلی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [انگوری باغ سکیم]{"entity" : "location"} سے [انگوری باغ سکیم]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [آرائیاں]{"entity" : "location"} سے [آرائیاں]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [آرکیٹیکٹس انجینیئرز سوسائٹی]{"entity" : "location"} سے [آرکیٹیکٹس انجینیئرز سوسائٹی]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [آرمی ہاؤسنگ سوسائٹی ]{"entity" : "location"} سے [آرمی ہاؤسنگ سوسائٹی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [آصف بلاک ]{"entity" : "location"} سے [آصف بلاک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری کالونی ]{"entity" : "location"} سے [عسکری کالونی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا ]{"entity" : "location"} سے [عسکری ولا ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 1 ]{"entity" : "location"} سے [عسکری ولا 1 ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 10 ]{"entity" : "location"} سے [عسکری ولا 10 ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 2 ]{"entity" : "location"} سے [عسکری ولا 2 ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 3 ]{"entity" : "location"} سے [عسکری ولا 3 ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 4]{"entity" : "location"} سے [عسکری ولا 4]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 5]{"entity" : "location"} سے [عسکری ولا 5]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 6 ]{"entity" : "location"} سے [عسکری ولا 6 ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 7 ]{"entity" : "location"} سے [عسکری ولا 7 ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 8]{"entity" : "location"} سے [عسکری ولا 8]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عسکری ولا 9]{"entity" : "location"} سے [عسکری ولا 9]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اتاترک  بلاک ]{"entity" : "location"} سے [اتاترک  بلاک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اٹاری سروبہ]{"entity" : "location"} سے [اٹاری سروبہ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اٹوکے  اعوان]{"entity" : "location"} سے [اٹوکے  اعوان]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اوقاف  کالونی ]{"entity" : "location"} سے [اوقاف  کالونی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اورنگزیب بلاک]{"entity" : "location"} سے [اورنگزیب بلاک]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اعوان ڈھائیوالہ]{"entity" : "location"} سے [اعوان ڈھائیوالہ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اعوان مارکیٹ ]{"entity" : "location"} سے [اعوان مارکیٹ ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اعوان ٹاؤن ]{"entity" : "location"} سے [اعوان ٹاؤن ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [ایاز بیگ کینال ویو ]{"entity" : "location"} سے [ایاز بیگ کینال ویو ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [اعظم مارکیٹ ]{"entity" : "location"} سے [اعظم مارکیٹ ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [عزیز کالونی شاہدرہ]{"entity" : "location"} سے [عزیز کالونی شاہدرہ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بابا فرید کالونی ]{"entity" : "location"} سے [بابا فرید کالونی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بابر بلاک ]{"entity" : "location"} سے [بابر بلاک ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بابو صابو ]{"entity" : "location"} سے [بابو صابو ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بادامی باغ ]{"entity" : "location"} سے [بادامی باغ ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بدر بلاک]{"entity" : "location"} سے [بدر بلاک]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بدر کالونی]{"entity" : "location"} سے [بدر کالونی]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [ہڈیارا ]{"entity" : "location"} سے [ہڈیارا ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [باغبان پورہ ]{"entity" : "location"} سے [باغبان پورہ ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [باگڑیاں]{"entity" : "location"} سے [باگڑیاں]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [باگڑیاں دھرم چند]{"entity" : "location"} سے [باگڑیاں دھرم چند]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بہاول پور ہاؤس ]{"entity" : "location"} سے [بہاول پور ہاؤس ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بحریہ ٹاؤن ]{"entity" : "location"} سے [بحریہ ٹاؤن ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بلوکی ]{"entity" : "location"} سے [بلوکی ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بند روڈ ]{"entity" : "location"} سے [بند روڈ ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بندہ گوجراں]{"entity" : "location"} سے [بندہ گوجراں]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بارگنزا کوارٹرز]{"entity" : "location"} سے [بارگنزا کوارٹرز]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [برکی]{"entity" : "location"} سے [برکی]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [برکی روڈ]{"entity" : "location"} سے [برکی روڈ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
+- [بستی سیدن شاہ]{"entity" : "location"} سے [بستی سیدن شاہ]{"entity" : "cuisine"} ریسٹورنٹ کی تلاش ہے
 - [ابوبکر بلاک ]{"entity" : "location"} میں [ابوبکر بلاک ]{"entity" : "cuisine"} کھانے کے بارے میں بتاؤ
 - [احمد بلاک ]{"entity" : "location"} میں [احمد بلاک ]{"entity" : "cuisine"} کھانے کے بارے میں بتاؤ
 - [ایبک بلاک ]{"entity" : "location"} میں [ایبک بلاک ]{"entity" : "cuisine"} کھانے کے بارے میں بتاؤ
